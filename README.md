@@ -1,4 +1,5 @@
 Fake News Detection with NLP and Logistic Regression
+
 📌 Project Overview
 
 This project applies Natural Language Processing (NLP) techniques and a Logistic Regression model to classify news articles as real or fake. With the massive spread of misinformation online, automated fake news detection is becoming a crucial tool for digital literacy and social trust.
